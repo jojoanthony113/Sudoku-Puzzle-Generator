@@ -1,8 +1,5 @@
 # Sudoku Puzzle Generator
 
-## Student Name
-Joseph Cancel
-
 ## Program Overview
 This program prints a solved 9 by 9 Sudoku board in the Java console. The board follows Sudoku rules, meaning each row, column, and 3 by 3 box contains the numbers 1 through 9 exactly once. The program generates the board using a pattern instead of hard-coding the answers.
 
